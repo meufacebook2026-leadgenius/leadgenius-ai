@@ -1,0 +1,13 @@
+# API Keys
+GOOGLE_MAPS_API_KEY=sua_chave_google_maps
+ANTHROPIC_API_KEY=sua_chave_anthropic
+EVOLUTION_API_URL=https://sua-evolution-api.com
+EVOLUTION_API_KEY=sua_chave_evolution
+EVOLUTION_INSTANCE=leadgenius
+
+# Database (Railway vai gerar automaticamente)
+MONGODB_URI=mongodb://localhost:27017/leadgenius
+
+# Server
+PORT=3000
+NODE_ENV=production
